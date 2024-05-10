@@ -23,11 +23,9 @@ const Contact = () => {
       }).then((res) => res.json());
   
       if (res.success) {
-        console.log("Success", res);
         setResult(res.message);
         event.target.reset();
       } else {
-        console.log("Error", res);
         setResult(res.message);
       }
     };

@@ -10,6 +10,10 @@ const VideoPlayer = ({ playState, setPlayState }) => {
     }
   };
 
+  if (!playState) {
+    return null; 
+  }
+
   return (
     <div
       className={`video-player ${playState ? "" : "hide"}`}
@@ -21,10 +25,10 @@ const VideoPlayer = ({ playState, setPlayState }) => {
         height="315"
         src="https://www.youtube.com/embed/dtb1wu9tJ-4?si=_UYq8_UwrQdagvzZ&amp;controls=0"
         title="YouTube video player"
-        frameborder="0"
+        frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
+        referrerPolicy="strict-origin-when-cross-origin"
+        allowFullScreen
       ></iframe>
     </div>
   );
