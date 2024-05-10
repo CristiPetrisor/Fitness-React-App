@@ -15,7 +15,7 @@ The application creates a web page of a fitness room and has several functionali
   - npm install / npm i
   - npm run dev
 
-# 
+# The site is deployed here: https://spectacular-babka-fc43c0.netlify.app/
 
 
 
