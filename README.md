@@ -3,7 +3,7 @@
 This application is made with vite + react.js technologies. 
 The application creates a web page of a fitness room and has several functionalities:
   - The page has the home, hero, program, about us, trainers and contact sections
-  - TThe whole application is responsive, using stylized buttons and different icons
+  - The whole application is responsive, using stylized buttons and different icons
   - In the about section, we have implemented a video player that starts when you click on the image and stops automatically when you exit the player
   - In the trainers section we have 4 cards with image and text that can be scrolled with information about the trainers
   - In the contact section, I created a form with name, phone number and message that are received by me on my personal email.
