@@ -47,10 +47,13 @@ const Trainers = () => {
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                As a fitness coach, you are a dedicated and motivated guide,
+                passionate about health and well-being. With a deep knowledge of
+                anatomy and effective exercises, you help others reach their
+                fitness goals by tailoring programs to individual needs and
+                capabilities. With excellent communication skills and empathy,
+                you encourage clients to push past their limits and improve both
+                their physical and mental health.
               </p>
             </div>
           </li>
@@ -66,10 +69,13 @@ const Trainers = () => {
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                As a fitness coach, you are a dedicated and motivated guide,
+                passionate about health and well-being. With a deep knowledge of
+                anatomy and effective exercises, you help others reach their
+                fitness goals by tailoring programs to individual needs and
+                capabilities. With excellent communication skills and empathy,
+                you encourage clients to push past their limits and improve both
+                their physical and mental health.
               </p>
             </div>
           </li>
@@ -85,10 +91,13 @@ const Trainers = () => {
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                As a fitness coach, you are a dedicated and motivated guide,
+                passionate about health and well-being. With a deep knowledge of
+                anatomy and effective exercises, you help others reach their
+                fitness goals by tailoring programs to individual needs and
+                capabilities. With excellent communication skills and empathy,
+                you encourage clients to push past their limits and improve both
+                their physical and mental health.
               </p>
             </div>
           </li>
@@ -104,10 +113,13 @@ const Trainers = () => {
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decisions I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                As a fitness coach, you are a dedicated and motivated guide,
+                passionate about health and well-being. With a deep knowledge of
+                anatomy and effective exercises, you help others reach their
+                fitness goals by tailoring programs to individual needs and
+                capabilities. With excellent communication skills and empathy,
+                you encourage clients to push past their limits and improve both
+                their physical and mental health.
               </p>
             </div>
           </li>
