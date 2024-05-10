@@ -1,4 +1,4 @@
-# React + Vite App
+# React + Vite Fitness App
 
 This application is made with vite + react.js technologies. 
 The application creates a web page of a fitness room and has several functionalities:
