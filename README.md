@@ -15,6 +15,8 @@ The application creates a web page of a fitness room and has several functionali
   - npm install / npm i
   - npm run dev
 
+# Vite & React simple setup tutorial: https://www.youtube.com/watch?v=vr-I2HIVmTw&t=93s
+
 # The site is deployed here: https://spectacular-babka-fc43c0.netlify.app/
 
 
